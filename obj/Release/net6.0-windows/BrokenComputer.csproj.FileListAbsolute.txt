@@ -1,0 +1,17 @@
+C:\Users\User1\Hylia\Programming\Broken Computer\BrokenComputer\BrokenComputer\bin\Release\net6.0-windows\BrokenComputer.exe
+C:\Users\User1\Hylia\Programming\Broken Computer\BrokenComputer\BrokenComputer\bin\Release\net6.0-windows\BrokenComputer.deps.json
+C:\Users\User1\Hylia\Programming\Broken Computer\BrokenComputer\BrokenComputer\bin\Release\net6.0-windows\BrokenComputer.runtimeconfig.json
+C:\Users\User1\Hylia\Programming\Broken Computer\BrokenComputer\BrokenComputer\bin\Release\net6.0-windows\BrokenComputer.dll
+C:\Users\User1\Hylia\Programming\Broken Computer\BrokenComputer\BrokenComputer\bin\Release\net6.0-windows\BrokenComputer.pdb
+C:\Users\User1\Hylia\Programming\Broken Computer\BrokenComputer\BrokenComputer\obj\Release\net6.0-windows\BrokenComputer.csproj.AssemblyReference.cache
+C:\Users\User1\Hylia\Programming\Broken Computer\BrokenComputer\BrokenComputer\obj\Release\net6.0-windows\BrokenComputer.Form1.resources
+C:\Users\User1\Hylia\Programming\Broken Computer\BrokenComputer\BrokenComputer\obj\Release\net6.0-windows\BrokenComputer.csproj.GenerateResource.cache
+C:\Users\User1\Hylia\Programming\Broken Computer\BrokenComputer\BrokenComputer\obj\Release\net6.0-windows\BrokenComputer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Hylia\Programming\Broken Computer\BrokenComputer\BrokenComputer\obj\Release\net6.0-windows\BrokenComputer.AssemblyInfoInputs.cache
+C:\Users\User1\Hylia\Programming\Broken Computer\BrokenComputer\BrokenComputer\obj\Release\net6.0-windows\BrokenComputer.AssemblyInfo.cs
+C:\Users\User1\Hylia\Programming\Broken Computer\BrokenComputer\BrokenComputer\obj\Release\net6.0-windows\BrokenComputer.csproj.CoreCompileInputs.cache
+C:\Users\User1\Hylia\Programming\Broken Computer\BrokenComputer\BrokenComputer\obj\Release\net6.0-windows\BrokenComputer.dll
+C:\Users\User1\Hylia\Programming\Broken Computer\BrokenComputer\BrokenComputer\obj\Release\net6.0-windows\refint\BrokenComputer.dll
+C:\Users\User1\Hylia\Programming\Broken Computer\BrokenComputer\BrokenComputer\obj\Release\net6.0-windows\BrokenComputer.pdb
+C:\Users\User1\Hylia\Programming\Broken Computer\BrokenComputer\BrokenComputer\obj\Release\net6.0-windows\BrokenComputer.genruntimeconfig.cache
+C:\Users\User1\Hylia\Programming\Broken Computer\BrokenComputer\BrokenComputer\obj\Release\net6.0-windows\ref\BrokenComputer.dll
